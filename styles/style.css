@@ -32,13 +32,11 @@
 
 #cyan-overlay {
   position: absolute;
-  top: 24px;
-  left: 24px;
+  top: 0;
   width: 302px;
   height: 302px;
   opacity: 0.503;
   border-radius: 8px;
-  background-image: url('images/Vector.svg');
   opacity: 0.0;
   transition-duration: 1s;
 }
